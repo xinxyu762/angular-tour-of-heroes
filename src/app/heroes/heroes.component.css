@@ -28,10 +28,12 @@
     background-color: #DDD;
     left: .1em;
   }
+
   .heroes .text {
     position: relative;
     top: -3px;
   }
+  
   .heroes .badge {
     display: inline-block;
     font-size: small;
